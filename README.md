@@ -17,6 +17,8 @@ Go into the client folder of the project and install dependencies using the foll
 - cd client
 - npm install
 
+(It may take a while to download all the dependencies)
+
 Go into the server folder of the project and install dependencies using the following commands:
 
 - cd ../server
