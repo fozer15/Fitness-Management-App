@@ -26,7 +26,7 @@ Go into the server folder of the project and install dependencies using the foll
 
 ## Running the Application
 
-Open two separate terminal shells.
+Open two separate terminals.
 
 In the first terminal, go into the client directory and start the client application using the following commands:
 
