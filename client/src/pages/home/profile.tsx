@@ -53,13 +53,12 @@ const Profile: React.FC = () => {
         const response = await axios.get<HealthMetric[]>(
           `http://localhost:3001/member/getMetrics/${ctx.user?.user_id}`
         );
-        // var _metrics = [...metrics];
-        // _metrics = _metrics.map((m) => {
-        //   var el = response.data.find((_m) => (_m.metric_type = m.metric_type));
-        //   return el || m;
-        // });
-        // console.log(_metrics);
-        setMetrics(response.data);
+        var _metrics = [...metrics];
+        _metrics = _metrics.map((m) => {
+          var el = response.data.find((_m) => _m.metric_type == m.metric_type);
+          return el || m;
+        });
+        setMetrics(_metrics);
       } catch (error) {
         console.error("Error fetching metrics:", error);
       }

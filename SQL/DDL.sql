@@ -109,5 +109,5 @@ CREATE TABLE HealthMetrics(
     metric_type metric_type NOT NULL,
     currentValue INTEGER,
     targetValue INTEGER,
-    UNIQUE(member_id,metric_type)
+    PRIMARY KEY (member_id, metric_type),
 );
