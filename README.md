@@ -47,9 +47,7 @@ Make sure to run these SQL queries before starting the application to set up the
 
 ### Note:
 
-All endpoints are written in the file:
-
-- server/user.js 
+1. All endpoints are written in the "user.js" file under the server folder
 
 Go into the directory: 
 
