@@ -17,7 +17,7 @@ Go into the client folder of the project and install dependencies using the foll
 - cd client
 - npm install
 
-(It may take a while to download all the dependencies)
+(Downloading all dependencies may take some time. During this process, the installation may appear to be frozen for a moment. Please be patient and allow it to complete.)
 
 Go into the server folder of the project and install dependencies using the following commands:
 
