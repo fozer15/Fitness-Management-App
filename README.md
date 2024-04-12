@@ -40,6 +40,8 @@ In the second terminal, go into the server directory and start the server applic
 
 (Node Server will get started on Port 3001. Client will make requests to the the endpoint http://localhost:3001/).
 
+All endpoints are written in the "user.js" file under the server folder.
+
 ## Database Setup
 
 The DDL and DML files are located in the SQL folder.
@@ -47,7 +49,6 @@ Make sure to run these SQL queries before starting the application to set up the
 
 ### Note:
 
-1. All endpoints are written in the "user.js" file under the server folder
 
 Go into the directory: 
 
