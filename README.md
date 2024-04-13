@@ -45,7 +45,7 @@ In the second terminal, go into the server directory and start the server applic
 
 (Node Server will get started on Port 3001. Client will make requests to the the endpoint http://localhost:3001/).
 
-All endpoints are written in the "user.js" file under the "server" folder. This is the file where you should look for function implementations and their corresponding SQL queries.
+All endpoints are written in the "user.js" file under the "server/routers" folder. This is the file where you should look for function implementations and their corresponding SQL queries.
 
 ## Database Setup
 
