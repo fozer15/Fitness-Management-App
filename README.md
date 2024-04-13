@@ -12,7 +12,7 @@ Once Node is downloaded, please check the installed Node version by running the 
 
 ( it should show the current version of Node being used. I recommend using VScode )
 
-## Installing Dependencies (I recommend VScode)
+## Installing Dependencies (I recommend using VScode)
 
 Go into the client folder of the project and install dependencies using the following commands:
 
