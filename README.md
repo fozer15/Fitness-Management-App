@@ -36,7 +36,7 @@ In the first terminal, go into the client directory and start the client applica
 - cd client
 - npm start
 
-(React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI)
+(React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
 
 In the second terminal, go into the server directory and start the server application using the following commands:
 
