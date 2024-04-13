@@ -11,7 +11,7 @@ Once Node is downloaded, please check the installed Node version by running the 
 
 - node -v
 
-( it should show the current version of Node being used. I recommend using VScode )
+( it should show the current version of Node being used. I highly recommend using VScode )
 
 ## Installing Dependencies (I recommend using VScode)
 
