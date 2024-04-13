@@ -59,11 +59,11 @@ Go into the directory:
 
 - server/db
 
-Open the file 
+Open the file
 
 - pgDB.js
   
-
+And set the values (user, host, database, password, port).
 
 
 
