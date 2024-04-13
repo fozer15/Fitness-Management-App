@@ -1,4 +1,5 @@
-Link To Demonstration Video - https://www.youtube.com/watch?v=elnUu6WJPMw
+Link To Demonstration Video - https://www.youtube.com/watch?v=elnUu6WJPMw. 
+(ER diagram and Relation Schema are looking blury for somereason but you can find the high resolution versions in the Report PDF )
 
 # Project Setup Instructions
 
