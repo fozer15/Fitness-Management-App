@@ -36,19 +36,19 @@ Once Node is downloaded, please check the installed Node version by running the 
 - cd client
 - npm start
 
-(React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
-
-All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder. 
-You should look at the files under those folders to see how requests are being made and how the client gets the data from the server. 
- 
+  (React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
+  
+  All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder. 
+  You should look at the files under those folders to see how requests are being made and how the client gets the data from the server. 
+   
 2. In the second terminal, go into the server directory and start the server application using the following commands:
 
 - cd ../server
 - npm start
 
-(Node Server will get started on Port 3001. Client will make requests to the the endpoint http://localhost:3001/).
-
-All the endpoints that the client makes requests to are written in the "user.js" file under the "server/routers" folder. This is the file where you should look for function implementations and their corresponding SQL queries.
+ (Node Server will get started on Port 3001. Client will make requests to the the endpoint http://localhost:3001/).
+ 
+ All the endpoints that the client makes requests to are written in the "user.js" file under the "server/routers" folder. This is the file where you should look for function implementations and their corresponding SQL queries.
 
 ## Database Setup
 
