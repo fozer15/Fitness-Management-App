@@ -38,8 +38,8 @@ Once Node is downloaded, please check the installed Node version by running the 
 
     (React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
       
-    All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder. 
-    You should look at the files under those folders to see how requests are being made and how the client gets the data from the server. 
+   All the components that make requests to the server are located under the "client/src/pages/home" folder. If you navigate into this folder, you'll find that each user type (member, trainer, admin) has its own folder. You should examine the files within these folders to understand how 
+   requests are made and how the client retrieves data from the server to render it in the UI.
    
 3. In the second terminal, go into the server directory and start the server application using the following commands:
 
@@ -47,7 +47,7 @@ Once Node is downloaded, please check the installed Node version by running the 
 - npm start
 
    (Node Server will get started on Port 3001. Client will make requests to the the endpoint http://localhost:3001/).
-   All the endpoints that the client makes requests to are written in the "user.js" file under the "server/routers" folder. This is the file where you should look for function implementations and their corresponding SQL queries.
+   All the endpoints that the client makes requests to are defined in the "user.js" file under the "server/routers" folder. This is the file where you should look for the implementations of these functions and their corresponding SQL queries.
 
 ## Database Setup
 
