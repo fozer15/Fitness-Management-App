@@ -38,6 +38,8 @@ In the first terminal, go into the client directory and start the client applica
 
 (React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
 
+All components that makes request to the server are under the "client/src/pages/" folder. Each
+
 In the second terminal, go into the server directory and start the server application using the following commands:
 
 - cd ../server
