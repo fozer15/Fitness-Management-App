@@ -15,23 +15,23 @@ Once Node is downloaded, please check the installed Node version by running the 
 
 ## Installing Dependencies (I highly recommend using VScode)
 
-Go into the client folder of the project and install dependencies using the following commands:
+1. Go into the client folder of the project and install dependencies using the following commands:
 
 - cd client
 - npm install
 
 (Downloading all dependencies may take some time. During this process, the installation may appear to be frozen for a moment. Please be patient and allow it to complete.)
 
-Go into the server folder of the project and install dependencies using the following commands:
+2. Go into the server folder of the project and install dependencies using the following commands:
 
 - cd ../server
 - npm install
 
 ## Running the Application
 
-Open two separate terminals.
+1. Open two separate terminals.
 
-In the first terminal, go into the client directory and start the client application using the following commands:
+2. In the first terminal, go into the client directory and start the client application using the following commands:
 
 - cd client
 - npm start
@@ -41,7 +41,7 @@ In the first terminal, go into the client directory and start the client applica
 All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder. 
 You should look at the files under those folders to see how requests are being made and how the client gets the data from the server. 
  
-In the second terminal, go into the server directory and start the server application using the following commands:
+2. In the second terminal, go into the server directory and start the server application using the following commands:
 
 - cd ../server
 - npm start
