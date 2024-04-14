@@ -38,7 +38,8 @@ In the first terminal, go into the client directory and start the client applica
 
 (React Server will get started automatically on Port 3000. You can access it through this url http://localhost:3000/. It may take a while to render the UI, please be patient)
 
-All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder.
+All the components that make requests to the server are under the "client/src/pages/home" folder. If you go into this folder, you can see that each user type (member, trainer, admin) has its own folder. 
+You should look at the files under those folders to see how requests are being made and how the client gets the data from the server. 
  
 In the second terminal, go into the server directory and start the server application using the following commands:
 
