@@ -1,6 +1,3 @@
-Link To Demonstration Video: https://www.youtube.com/watch?v=elnUu6WJPMw. 
-(ER diagram and Relation Schema looked blury for some reason but you can find the high resolution versions in the Report PDF )
-
 # Project Setup Instructions
 
 ## Installing Node.js and NPM
