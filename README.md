@@ -9,6 +9,8 @@ This fitness management application was developed as a project for my **Database
 
 <img alt="login_chat" src="https://github.com/user-attachments/assets/0533901d-598b-4ffc-93b3-2bc26587c49a">
 
+
+
 - **Class and Trainer Assignment:**  
   Admins can create group classes and assign trainers to these classes based on their availability.
 
