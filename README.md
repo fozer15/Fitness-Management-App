@@ -22,7 +22,9 @@ This fitness management application was developed as a project for my **Database
 
 <img alt="login_chat" src="https://github.com/user-attachments/assets/f2634dea-593f-43c8-98ae-78daeab9ed4b">
 <img alt="login_chat" src="https://github.com/user-attachments/assets/2f6eaf20-a2a5-4d64-8fcc-51d8bc8d8c70">
+
 ---
+
 - **Equipment and Billing Monitoring:**  
   Admins can oversee the status of gym equipment and track users' billing histories.
 
