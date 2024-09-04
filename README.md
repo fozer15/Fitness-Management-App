@@ -20,6 +20,7 @@ I developed this app as the final project for my COMP 3005 (Database Management 
 - **User Scheduling:**  
   Users can enroll in group classes and schedule one-on-one sessions with trainers, aligning with the trainers' schedules.
 
+<img alt="login_chat" src="https://github.com/user-attachments/assets/f300c06e-1fe7-4e61-8108-bbe8d0aaa824">
 <img alt="login_chat" src="https://github.com/user-attachments/assets/f2634dea-593f-43c8-98ae-78daeab9ed4b">
 <img alt="login_chat" src="https://github.com/user-attachments/assets/2f6eaf20-a2a5-4d64-8fcc-51d8bc8d8c70">
 
