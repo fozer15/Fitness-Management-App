@@ -30,5 +30,4 @@ I developed this app as the final project for my COMP 3005 (Database Management 
   Admins can oversee the status of gym equipment and track users' billing histories.
 
 <img alt="login_chat" src="https://github.com/user-attachments/assets/6cbc9919-0e7c-4b07-bab2-37d107c8b644">
-
-
+<img alt="login_chat" src="https://github.com/user-attachments/assets/00b49c8e-d3d0-4d5f-962d-d89793878418">
