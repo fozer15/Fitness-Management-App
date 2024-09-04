@@ -12,9 +12,9 @@ I developed this app as the final project for my COMP 3005 (Database Management 
 ---
 
 - **Class and Trainer Assignment:**  
-  Admins can create group classes and assign trainers to these classes based on their availability.
+ Admins can perform all CRUD operations on the group classes and assign trainers to scheduled classes based on their availability.
 
-<img alt="login_chat" src="https://github.com/user-attachments/assets/f300c06e-1fe7-4e61-8108-bbe8d0aaa824">
+<img alt="login_chat" src="https://github.com/user-attachments/assets/5a55c27f-c30a-4252-8035-091234731369">
 
 ---
 - **User Scheduling:**  
