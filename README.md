@@ -1,6 +1,6 @@
 # Fitness Management App
 
-I developed this app as the final project for my COMP 3005 (Database Management Systems) course. It is built using **React, PostgreSQL, Material UI, Node, and TypeScript**. The application includes three account types: Admin, Manager, and Trainer, each with distinct roles and capabilities.
+I developed this app for my COMP 3005 (Database Management Systems) final project. It is built using **React, PostgreSQL, Material UI, Node, and TypeScript**. The application includes three account types: Admin, Manager, and Trainer, each with distinct roles and capabilities.
 
 ## Key Functionalities
 
